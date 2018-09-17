@@ -1,0 +1,25 @@
+_repo: Kaksi-kansanrunokokoelmaa-viime-vuosisadalta-ynna-Suru-Runot-Suomalaiset_52474
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Niemi, Aukusti Robert
+    alias: Niemi, A. R. (Aukusti Robert)
+    birthdate: 1869
+    deathdate: 1931
+    gutenberg_agent_id: '46879'
+    url: http://www.gutenberg.org/2009/agents/46879
+description: ''
+gutenberg_issued: '2016-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52474'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish poetry'
+- !lcc 'PH'
+- GITenberg
+title: Kaksi kansanrunokokoelmaa viime vuosisadalta ynnä "Suru-Runot Suomalaiset"
+url: http://www.gutenberg.org/ebooks/52474
